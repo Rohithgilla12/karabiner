@@ -76,27 +76,20 @@ const rules: KarabinerRules[] = [
       v: app("Visual Studio Code"),
       d: app("Discord"),
       s: app("Slack"),
-      e: app("Superhuman"),
+      e: app("Spark Desktop"),
       n: app("Notion"),
-      t: app("Terminal"),
+      w: app("Warp"),
       // Open todo list managed via *H*ypersonic
-      h: open(
-        "notion://www.notion.so/stellatehq/7b33b924746647499d906c55f89d5026"
-      ),
+      t: app("TickTick"),
       z: app("zoom.us"),
       // "M"essages
       m: app("Texts"),
       f: app("Finder"),
       r: app("Texts"),
       // "i"Message
-      i: app("Texts"),
-      p: app("Spotify"),
-      a: app("iA Presenter"),
+      i: app("WhatsApp"),
+      l: app("Linear"),
       // "W"hatsApp has been replaced by Texts
-      w: open("Texts"),
-      l: open(
-        "raycast://extensions/stellate/mxstbr-commands/open-mxs-is-shortlink"
-      ),
     },
 
     // w = "Window" via rectangle.app
@@ -304,9 +297,6 @@ const rules: KarabinerRules[] = [
     // r = "Raycast"
     r: {
       n: open("raycast://script-commands/dismiss-notifications"),
-      l: open(
-        "raycast://extensions/stellate/mxstbr-commands/create-mxs-is-shortlink"
-      ),
       e: open(
         "raycast://extensions/raycast/emoji-symbols/search-emoji-symbols"
       ),
@@ -316,12 +306,6 @@ const rules: KarabinerRules[] = [
       s: open("raycast://extensions/peduarte/silent-mention/index"),
       h: open(
         "raycast://extensions/raycast/clipboard-history/clipboard-history"
-      ),
-      1: open(
-        "raycast://extensions/VladCuciureanu/toothpick/connect-favorite-device-1"
-      ),
-      2: open(
-        "raycast://extensions/VladCuciureanu/toothpick/connect-favorite-device-2"
       ),
     },
   }),
