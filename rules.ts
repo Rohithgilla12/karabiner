@@ -72,9 +72,10 @@ const rules: KarabinerRules[] = [
     o: {
       1: app("1Password"),
       a: app("Arc"),
-      g: app("Google Chrome"),
+      g: app("GoLand"),
       c: app("Notion Calendar"),
-      v: app("Visual Studio Code"),
+      // Since it's eaiser lol
+      p: app("Cursor"),
       d: app("Discord"),
       s: app("Slack"),
       e: app("Spark Desktop"),
