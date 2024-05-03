@@ -310,6 +310,7 @@ const rules: KarabinerRules[] = [
         "raycast://extensions/raycast/clipboard-history/clipboard-history"
       ),
       t: open("raycast://extensions/appest/ticktick/inbox"),
+      l: open("raycast://extensions/raycast/system/lock-screen"),
     },
   }),
 ];
