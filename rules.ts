@@ -305,7 +305,7 @@ const rules: KarabinerRules[] = [
       c: open("raycast://extensions/raycast/system/open-camera"),
       p: open("raycast://extensions/raycast/raycast/confetti"),
       a: open("raycast://extensions/raycast/raycast-ai/ai-chat"),
-      s: open("raycast://extensions/peduarte/silent-mention/index"),
+      s: open("raycast://extensions/raycast/snippets/search-snippets"),
       h: open(
         "raycast://extensions/raycast/clipboard-history/clipboard-history"
       ),

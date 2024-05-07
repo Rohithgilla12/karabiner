@@ -2196,10 +2196,10 @@
               {
                 "to": [
                   {
-                    "shell_command": "open raycast://extensions/peduarte/silent-mention/index"
+                    "shell_command": "open raycast://extensions/raycast/snippets/search-snippets"
                   }
                 ],
-                "description": "Open raycast://extensions/peduarte/silent-mention/index",
+                "description": "Open raycast://extensions/raycast/snippets/search-snippets",
                 "type": "basic",
                 "from": {
                   "key_code": "s",
