@@ -75,7 +75,7 @@ const rules: KarabinerRules[] = [
       g: app("GoLand"),
       c: app("Notion Calendar"),
       // Since it's eaiser lol
-      p: app("Cursor"),
+      q: app("Cursor"),
       d: app("Discord"),
       s: app("Slack"),
       e: app("Spark Desktop"),
@@ -90,7 +90,7 @@ const rules: KarabinerRules[] = [
       r: app("Texts"),
       // "i"Message
       i: app("WhatsApp"),
-      l: app("Linear"),
+      p: app("Linear"),
       // "W"hatsApp has been replaced by Texts
     },
 
