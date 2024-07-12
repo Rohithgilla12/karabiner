@@ -457,10 +457,10 @@
               {
                 "to": [
                   {
-                    "shell_command": "open -a 'Notion Calendar.app'"
+                    "shell_command": "open -a 'ChatGPT.app'"
                   }
                 ],
-                "description": "Open -a 'Notion Calendar.app'",
+                "description": "Open -a 'ChatGPT.app'",
                 "type": "basic",
                 "from": {
                   "key_code": "c",

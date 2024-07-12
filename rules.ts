@@ -73,7 +73,7 @@ const rules: KarabinerRules[] = [
       1: app("1Password"),
       a: app("Arc"),
       g: app("GoLand"),
-      c: app("Notion Calendar"),
+      c: app("ChatGPT"),
       // Since it's eaiser lol
       q: app("Cursor"),
       d: app("Discord"),
