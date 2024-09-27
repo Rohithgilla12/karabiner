@@ -63,10 +63,9 @@ const rules: KarabinerRules[] = [
     b: {
       t: open("https://twitter.com"),
       // Quarterly "P"lan
-      p: open("https://qrtr.ly/plan"),
       y: open("https://news.ycombinator.com"),
-      f: open("https://facebook.com"),
       r: open("https://reddit.com"),
+      x: open("https://x.com"),
     },
     // o = "Open" applications
     o: {
@@ -76,25 +75,21 @@ const rules: KarabinerRules[] = [
       c: app("ChatGPT"),
       // Since it's eaiser lol
       q: app("Cursor"),
-      d: app("Discord"),
+      d: app("DataGrip"),
       s: app("Slack"),
       e: app("Spark Desktop"),
       n: app("Notion"),
       w: app("Warp"),
-      // Open todo list managed via *H*ypersonic
       t: app("TickTick"),
       z: app("zoom.us"),
       // "M"essages
       m: app("Texts"),
       f: app("Finder"),
-      r: app("Texts"),
       // "i"Message
       i: app("WhatsApp"),
       p: app("Linear"),
-      // "W"hatsApp has been replaced by Texts
     },
 
-    // w = "Window" via rectangle.app
     w: {
       semicolon: {
         description: "Window: Hide",
