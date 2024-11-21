@@ -293,7 +293,7 @@ const rules: KarabinerRules[] = [
 
     // r = "Raycast"
     r: {
-      n: open("raycast://script-commands/dismiss-notifications"),
+      n: open("raycast://extensions/raycast/raycast-notes/create-note"),
       e: open(
         "raycast://extensions/raycast/emoji-symbols/search-emoji-symbols"
       ),

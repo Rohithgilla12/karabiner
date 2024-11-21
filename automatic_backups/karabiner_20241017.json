@@ -2028,10 +2028,10 @@
               {
                 "to": [
                   {
-                    "shell_command": "open raycast://extensions/raycast/raycast-notes/create-note"
+                    "shell_command": "open raycast://script-commands/dismiss-notifications"
                   }
                 ],
-                "description": "Open raycast://extensions/raycast/raycast-notes/create-note",
+                "description": "Open raycast://script-commands/dismiss-notifications",
                 "type": "basic",
                 "from": {
                   "key_code": "n",
