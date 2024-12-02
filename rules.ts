@@ -293,7 +293,9 @@ const rules: KarabinerRules[] = [
 
     // r = "Raycast"
     r: {
-      n: open("raycast://extensions/raycast/raycast-notes/create-note"),
+      n: open(
+        "raycast://extensions/raycast/raycast-notes/raycast-notes?context=%7B%22id%22:%2223A09FFA-A5A9-4AAD-9324-E2DC127C8B4C%22%7D"
+      ),
       e: open(
         "raycast://extensions/raycast/emoji-symbols/search-emoji-symbols"
       ),
